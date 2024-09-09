@@ -1,0 +1,30 @@
+# Ignore Godot import cache (auto-generated files)
+.import/
+
+# Ignore Godot's internal settings and data
+.godot/
+
+# Ignore export files (e.g., executable, APK, etc.)
+export/
+*.exe
+*.apk
+*.pck
+*.zip
+*.tar.gz
+
+# Godot metadata folder (optional)
+godot/
+
+# Ignore temporary files created by the operating system
+.DS_Store
+Thumbs.db
+
+# Ignore log and temporary files
+*.log
+*.tmp
+
+# Ignore backups created by Godot
+*.godot.import
+
+# Optional: Ignore user-specific editor settings
+.editor_settings-3.tres
